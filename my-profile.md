@@ -3,10 +3,12 @@
 ## 關於我
 
 專長
-* 技能一
-* **技能二**
-* 技能三
+* **吃飯**
+* 睡覺
+* 打東東
 
-座右銘：*座右銘*
+座右銘：*球不落地永不放棄*
 
-[Youtube](https://www.youtube.com/)
+[youtube](https://www.youtube.com/)
+![Monkey](monkey.png)
+>床前明月光
